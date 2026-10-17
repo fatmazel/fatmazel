@@ -1,4 +1,4 @@
-## Hi, I'm Fatma 👋
+## Hi, I'm Fatma Zehra 👋
 
 Software Engineering student at Konya Technical University, building full-stack and mobile applications with a focus on computer vision, optimization algorithms, and clean software architecture.
 
